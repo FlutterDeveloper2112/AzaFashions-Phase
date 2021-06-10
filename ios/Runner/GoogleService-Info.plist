@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>980805368653-mmuekn5i4uj9m77qpk7163u9qo0j003t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.980805368653-mmuekn5i4uj9m77qpk7163u9qo0j003t</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>980805368653-4ji0ahlp2gnmq5s2reep32mrohe0vsr4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZZtLcurz1yZ--2HYDA22erSYcO7PMeME</string>
+	<key>GCM_SENDER_ID</key>
+	<string>980805368653</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.azaOnline.azaFashions</string>
+	<key>PROJECT_ID</key>
+	<string>aza-online-3ced7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aza-online-3ced7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:980805368653:ios:da668170fe4399847ed504</string>
+</dict>
+</plist>

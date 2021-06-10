@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/shravantisunchu/Documents/Shravanti/Projects/AzaFirstPhase/build/flutter_webview_plugin/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/shravantisunchu/.gradle/caches/transforms-2/files-2.1/86dd6b0286a09c973b91d9550301ca66/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/shravantisunchu/Documents/Shravanti/Projects/AzaFirstPhase/build/flutter_webview_plugin/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/shravantisunchu/.gradle/caches/transforms-2/files-2.1/86dd6b0286a09c973b91d9550301ca66/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/shravantisunchu/Documents/Shravanti/Projects/AzaFirstPhase/build/flutter_webview_plugin/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/shravantisunchu/.gradle/caches/transforms-2/files-2.1/86dd6b0286a09c973b91d9550301ca66/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/shravantisunchu/Documents/Shravanti/Projects/AzaFirstPhase/build/flutter_webview_plugin/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/shravantisunchu/.gradle/caches/transforms-2/files-2.1/86dd6b0286a09c973b91d9550301ca66/core-1.1.0/res/layout-v21/notification_action.xml"
+    }
+]

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">aza_online</string>
+    <string name="facebook_app_id">550118208750609</string>
+    <string name="fb_login_protocol_scheme">fb550118208750609</string>
+</resources>

@@ -1,0 +1,18 @@
+com/webengage/webengage_plugin/BuildConfig.java
+ com.webengage.webengage_plugin.BuildConfig
+com/webengage/webengage_plugin/WebengageInitializer.java
+ com.webengage.webengage_plugin.WebengageInitializer
+com/webengage/webengage_plugin/WebEngagePlugin.java
+ com.webengage.webengage_plugin.WebEngagePlugin
+ com.webengage.webengage_plugin.WebEngagePlugin$1
+com/webengage/webengage_plugin/Constants.java
+ com.webengage.webengage_plugin.Constants
+ com.webengage.webengage_plugin.Constants$ARGS
+ com.webengage.webengage_plugin.Constants$MethodName
+ com.webengage.webengage_plugin.Constants$PARAM
+com/webengage/webengage_plugin/FlutterInAppCallbacks.java
+ com.webengage.webengage_plugin.FlutterInAppCallbacks
+com/webengage/webengage_plugin/Utils.java
+ com.webengage.webengage_plugin.Utils
+com/webengage/webengage_plugin/FlutterPushMessageCallback.java
+ com.webengage.webengage_plugin.FlutterPushMessageCallback

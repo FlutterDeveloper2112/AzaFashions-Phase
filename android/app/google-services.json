@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "980805368653",
+    "project_id": "aza-online-3ced7",
+    "storage_bucket": "aza-online-3ced7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980805368653:android:ee7be060fd18b0787ed504",
+        "android_client_info": {
+          "package_name": "com.azaOnline.azaFashions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980805368653-4ji0ahlp2gnmq5s2reep32mrohe0vsr4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.azaOnline.azaFashions",
+            "certificate_hash": "960b1d53380190c0ddfe5199614c888ccd5283e4"
+          }
+        },
+        {
+          "client_id": "980805368653-5fecd0lej1773d40puvnde0uocgmb92v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.azaOnline.azaFashions",
+            "certificate_hash": "acaf265d2e55be512b79d1366b08b2375e1d775b"
+          }
+        },
+        {
+          "client_id": "980805368653-l0cosrhskk5vhau1gsg0j0094nb06gr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.azaOnline.azaFashions",
+            "certificate_hash": "2bb27cea6cb585986877a9d19260f7ab325d822d"
+          }
+        },
+        {
+          "client_id": "980805368653-qnch5sr9st0bnfach80vka4oi4d3b1m9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.azaOnline.azaFashions",
+            "certificate_hash": "a041b1017aa4b62bd390190764ce4e02db279654"
+          }
+        },
+        {
+          "client_id": "980805368653-d24ui0bt172ip19eaa3ehdgi4bglufe6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXgFOcy-m00WxBEkbNzJ7VP9tnHnsCe0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980805368653-d24ui0bt172ip19eaa3ehdgi4bglufe6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "980805368653-mmuekn5i4uj9m77qpk7163u9qo0j003t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.azaOnline.azaFashions"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

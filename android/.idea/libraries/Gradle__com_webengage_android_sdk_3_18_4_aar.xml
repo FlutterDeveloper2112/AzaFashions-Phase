@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.webengage:android-sdk:3.18.4@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Aza/azafashions/android/gradle/caches/transforms-2/files-2.1/1f22fa72da54759e73d1ae6ae2fb9a01/jetified-android-sdk-3.18.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Aza/azafashions/android/gradle/caches/transforms-2/files-2.1/1f22fa72da54759e73d1ae6ae2fb9a01/jetified-android-sdk-3.18.4/res" />
+      <root url="file://$PROJECT_DIR$/../../Aza/azafashions/android/gradle/caches/transforms-2/files-2.1/1f22fa72da54759e73d1ae6ae2fb9a01/jetified-android-sdk-3.18.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

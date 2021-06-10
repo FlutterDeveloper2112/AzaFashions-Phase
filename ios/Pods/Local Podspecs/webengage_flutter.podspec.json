@@ -1,0 +1,33 @@
+{
+  "name": "webengage_flutter",
+  "version": "0.0.1",
+  "summary": "WebEngage Flutter iOS SDK.",
+  "description": "WebEngage Flutter iOS SDK.",
+  "homepage": "http://example.com",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Ashwin Dinesh": "ashwin.dinesh@webklipper.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ],
+    "WebEngage": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "pod_target_xcconfig": {
+    "DEFINES_MODULE": "YES",
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "i386"
+  }
+}

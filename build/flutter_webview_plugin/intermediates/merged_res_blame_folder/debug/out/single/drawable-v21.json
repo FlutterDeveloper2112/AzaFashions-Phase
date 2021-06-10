@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/shravantisunchu/Documents/Shravanti/Projects/AzaFirstPhase/build/flutter_webview_plugin/intermediates/res/merged/debug/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/shravantisunchu/.gradle/caches/transforms-2/files-2.1/2868a2faac19672ad4ed8bcb9dee2c46/appcompat-1.1.0/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/shravantisunchu/Documents/Shravanti/Projects/AzaFirstPhase/build/flutter_webview_plugin/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/shravantisunchu/.gradle/caches/transforms-2/files-2.1/2868a2faac19672ad4ed8bcb9dee2c46/appcompat-1.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/shravantisunchu/Documents/Shravanti/Projects/AzaFirstPhase/build/flutter_webview_plugin/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/shravantisunchu/.gradle/caches/transforms-2/files-2.1/2868a2faac19672ad4ed8bcb9dee2c46/appcompat-1.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/shravantisunchu/Documents/Shravanti/Projects/AzaFirstPhase/build/flutter_webview_plugin/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/shravantisunchu/.gradle/caches/transforms-2/files-2.1/2868a2faac19672ad4ed8bcb9dee2c46/appcompat-1.1.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/shravantisunchu/Documents/Shravanti/Projects/AzaFirstPhase/build/flutter_webview_plugin/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/shravantisunchu/.gradle/caches/transforms-2/files-2.1/86dd6b0286a09c973b91d9550301ca66/core-1.1.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/shravantisunchu/Documents/Shravanti/Projects/AzaFirstPhase/build/flutter_webview_plugin/intermediates/res/merged/debug/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/shravantisunchu/.gradle/caches/transforms-2/files-2.1/2868a2faac19672ad4ed8bcb9dee2c46/appcompat-1.1.0/res/drawable-v21/abc_dialog_material_background.xml"
+    }
+]

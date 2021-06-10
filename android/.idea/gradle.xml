@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="openjdk-15" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/apple_sign_in-0.1.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/connectivity-3.0.3/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/country_codes-2.0.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/device_id-0.2.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/device_info-0.4.2+6/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/devicelocale-0.4.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-8.0.4/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/firebase_auth-1.0.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.1.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/firebase_crashlytics-2.0.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/firebase_dynamic_links-0.5.3/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/flutter_facebook_login-3.0.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/flutter_webview_plugin-0.3.11/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/fluttertoast-4.0.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/geocoder-0.2.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/geolocator-7.0.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/google_sign_in-4.5.9/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/hexcolor-1.0.6/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/launch_review-3.0.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/libphonenumber-2.0.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/libphonenumber_plugin-0.2.3/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/location-4.1.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/share-2.0.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.5/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.0+3/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/store_redirect-1.0.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/url_launcher-6.0.3/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/webengage_flutter-1.0.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/webview_flutter-2.0.4/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
